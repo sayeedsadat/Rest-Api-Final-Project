@@ -1,0 +1,23 @@
+{
+  "name": "sayeed_sadat_final_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "@google-cloud/datastore": "^7.0.0",
+    "axios": "^1.1.3",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "express-jwt": "^7.7.7",
+    "google-auth-library": "^8.7.0",
+    "jwks-rsa": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sayeed Sadat",
+  "license": "ISC"
+}
